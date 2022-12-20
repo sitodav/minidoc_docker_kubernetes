@@ -1,2 +1,3 @@
 # minidoc_docker_kubernetes
-a little doc I made while approaching docker and kubernetes for the first time
+Piccolo documento di appunti e progetto di esempio , fatto quando ho approcciato per la prima volta a Docker e Kubernetes.
+Nel .docx ci sono gli appunti.
